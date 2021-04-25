@@ -47,3 +47,7 @@
 ###### process done: data extraction, data transforming,data visualization , loading
 > merging dataset 1 and 2 - RESULTANT_DATA_1.ipynb<br />
 > merging dataset 2 and 3 - RESULTANT_DATA_1.ipynb<br />
+
+## MASTER_DO_NOTEBOOK
+##### Run the MASTER_DO_NOTEBOOK.ipynb file to run all the files parallelly and see all the results and visualization. This handle separate files of an overall task. This file will run all the files parallely and gives the visualized result of all the jupyter notebook files
+> MASTER_DO_NOTEBOOK.ipynb
