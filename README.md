@@ -49,5 +49,7 @@
 > merging dataset 2 and 3 - RESULTANT_DATA_1.ipynb<br />
 
 ## MASTER_DO_NOTEBOOK
-##### Run the MASTER_DO_NOTEBOOK.ipynb file to run all the files parallelly and see all the results and visualization. This handle separate files of an overall task. This file will run all the files parallely and gives the visualized result of all the jupyter notebook files
+##### Run the MASTER_DO_NOTEBOOK.ipynb file to run all the files parallelly and see all the results and visualization. This handle separate files of an overall task. This file will run all the files sequentially and gives the visualized result of all the jupyter notebook files
 > MASTER_DO_NOTEBOOK.ipynb
+
+Note: Run the MASTER_DO_NOTEBOOK.ipynb file to run all the files sequentially and see all the results and visualization. This shows the outcome of all the separate files and their visualizations
