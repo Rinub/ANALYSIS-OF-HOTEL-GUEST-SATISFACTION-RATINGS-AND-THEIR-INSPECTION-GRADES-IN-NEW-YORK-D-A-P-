@@ -29,13 +29,13 @@
 [![N|Solid](https://github.com/Rinub/DAP_project/blob/21e184349a9993e86d59cf4f8d0e0664754cae75/flow%20chart%20(2).png)](https://nodesource.com/products/nsolid)
 
 ## STEPS TO HANDLING FILES 
-##### Files for Making an http request and pull back a json string using API by accessing a database and pushing it to MongoDB atles AWS cloud client
+##### 1 Files for Making an http request and pull back a json string using API by accessing a database and pushing it to MongoDB atles AWS cloud client
 
 >dataset 1 - data _1_push mongodb.ipynb<br />
 >dataset 2 - data _2_push mongodb.ipynb<br />
 >dataset 3 - data _3_push mongodb.ipynb<br />
 
-##### pulling the unstructured data from MongoDB atles AWS cloud client and Transforming  the data into a machine-learning-digestible format and loading it to PostgreSQL AWS RDS instance 
+##### 2 pulling the unstructured data from MongoDB atles AWS cloud client and Transforming  the data into a machine-learning-digestible format and loading it to PostgreSQL AWS RDS instance 
 ###### process done: data extraction, data cleaning, pre-processing, transforming, loading, data visualization
 
 >dataset 1 - ETL_DATA_1.ipynb<br />
@@ -43,7 +43,7 @@
 >dataset 3 - ETL_DATA_3.ipynb<br />
 
 
-##### pulling structured data 1, data 2, data 3  to merge all the datasets using inner joint and visualizing and storing the resultant dataset in PostgreSQL AWS RDS instance
+##### 3 pulling structured data 1, data 2, data 3  to merge all the datasets using inner joint and visualizing and storing the resultant dataset in PostgreSQL AWS RDS instance
 ###### process done: data extraction, data transforming,data visualization , loading
 > merging dataset 1 and 2 - RESULTANT_DATA_1.ipynb<br />
 > merging dataset 2 and 3 - RESULTANT_DATA_1.ipynb<br />
